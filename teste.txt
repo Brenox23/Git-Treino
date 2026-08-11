@@ -1,11 +1,10 @@
-'meu primeiro teste com Git' 
  O volume na unidade C ‚ Windows
  O N£mero de S‚rie do Volume ‚ 94C5-3514
 
  Pasta de C:\Users\43702673822\git-treino
 
-04/08/2026  19:42    <DIR>          .
-11/08/2026  20:21    <DIR>          ..
-04/08/2026  19:44                31 teste.txt
-               1 arquivo(s)             31 bytes
-               2 pasta(s)   677.493.813.248 bytes dispon¡veis
+11/08/2026  20:50    <DIR>          .
+11/08/2026  20:35    <DIR>          ..
+11/08/2026  20:50                 0 teste.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   677.735.231.488 bytes dispon¡veis
